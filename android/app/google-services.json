@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942271874830",
+    "project_id": "paola-app-firebase-f89f7",
+    "storage_bucket": "paola-app-firebase-f89f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942271874830:android:7e3a6dadeeb1bf8a17795f",
+        "android_client_info": {
+          "package_name": "com.example.mi_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLFW-CYvZANPsMTe47BqqaMkfxQMizFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
